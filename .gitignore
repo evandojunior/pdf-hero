@@ -1,0 +1,4 @@
+/vendor
+/files
+composer.lock
+extratedfrom.php

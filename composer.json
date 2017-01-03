@@ -1,0 +1,19 @@
+{
+    "name": "evandojunior/pdfhero",
+    "description": "Classes for save you from pdf files",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evando Junior",
+            "email": "evando.junior@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {},
+    "autoload":{
+        "psr-4":{
+            "EvandoJunior\\": "src"
+        }
+    }
+}
